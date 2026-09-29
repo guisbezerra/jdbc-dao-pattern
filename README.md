@@ -49,7 +49,7 @@ Configuração utilizada:
 - Banco de dados: `coursejdbc`
 - Host: `localhost`
 - Porta: `3306`
-- Driver: JDBC
+- Acesso ao banco: JDBC
 
 As credenciais do banco são configuradas localmente através do arquivo:
 
